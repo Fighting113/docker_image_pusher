@@ -1,4 +1,4 @@
 frooodle/s-pdf
 tsosc/nexttraceweb
 NTrace-core
-ghcr.io/lissy93/web-check:latest@sha256:a642105b1713bb8bceccbb7403a29389dedc13d42a323e22dcf331399aa77f8b
+frooodle/s-pdf

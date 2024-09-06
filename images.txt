@@ -1,4 +1,4 @@
 frooodle/s-pdf
 tsosc/nexttraceweb
 NTrace-core
-ghcr.io/jaywcjlove/linux-command
+ghcr.io/lissy93/web-check:latest

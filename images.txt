@@ -1,5 +1,4 @@
 frooodle/s-pdf
 tsosc/nexttraceweb
 NTrace-core
-tsosc/nexttraceweb
 ghcr.io/screego/server:1.10.5

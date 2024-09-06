@@ -1,4 +1,4 @@
 frooodle/s-pdf
 tsosc/nexttraceweb
 NTrace-core
-wcjiang/linux-command
+ghcr.io/jaywcjlove/linux-command

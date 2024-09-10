@@ -1,4 +1,4 @@
 frooodle/
 NTrace-core
 ghcr.io/screego/server:1.10.5
-wcjiang/linux-command
+ghcr.io/jaywcjlove/linux-command:latest
